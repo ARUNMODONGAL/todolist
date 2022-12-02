@@ -19,7 +19,7 @@ function errDis(){
 }
 
 function redirect(){
-        window.location.href = "./main/index.html";
+        window.location.href = "./todo/todo.html";
 }
 
 document.getElementById("formDet").addEventListener("submit",function(event){
